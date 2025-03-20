@@ -1,0 +1,14 @@
+{
+  "name": "necrovibe",
+  "version": "1.0.0",
+  "description": "client for necrovibe mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buttplug": "^3.2.2"
+  }
+}

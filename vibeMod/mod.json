@@ -1,0 +1,14 @@
+{
+	"namespace": "VibeIntiface",
+	"displayName": "VibeIntiface",
+	"version": "0.1",
+	"synchronyVersion": "4.1.0",
+	"description": "Connects the game to a buttplug.io server",
+	"author": "Hylandude",
+	"dependencies": {},
+	"api": {"scriptPath":""},
+	"icon": "VibeIntifaceIcon.png",
+	"banner": "VibeIntifaceBanner.png",
+	"tags": [],
+	"name": "VibeIntiface"
+}
